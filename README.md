@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cynthia!</h1>
 
-With over two years of experience teaching data science at LeWagon bootcamp, I've had the opportunity to work with and teach a diverse range of individuals, from career changers to tech professionals and academics. As someone deeply passionate about both language and data, I specialize in natural language processing and I am a proficient data analyst.
+With over two years of experience teaching data science at LeWagon bootcamp, I've had the opportunity to work with and teach a diverse range of individuals, from career changers to tech professionals and academics. I have also worked as a data consultant and NLP engineer as well as a data analyst using Python and PowerBI.
 
-🎯 My overarching aim is to advance language technology and offer valuable insights to improve businesses across different sectors.
+🎯 Currently, I am exploring my passion for the engineering side of the world of data and tech.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cynthias13w&label=Profile%20views&color=0e75b6&style=flat" alt="cynthias13w" /> </p>
 
