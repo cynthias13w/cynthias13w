@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cynthia!</h1>
 
-With over two years of experience teaching data science at LeWagon bootcamp, I've had the opportunity to work with and teach a diverse range of individuals, from career changers to tech professionals and academics.  I also worked as a data consultant and NLP engineer where I had the pleasure of delving into document processing and crafting chatbots. Then transitioned to a PowerBI data analyst role which allowed me unearth insights and effectively visualize them.
-
-🎯 Currently, I am exploring my passion for the engineering side of the world of data and tech.
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cynthias13w&label=Profile%20views&color=0e75b6&style=flat" alt="cynthias13w" /> </p>
 
 How to reach me:
