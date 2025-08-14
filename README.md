@@ -2,6 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cynthias13w&label=Profile%20views&color=0e75b6&style=flat" alt="cynthias13w" /> </p>
 
+I’m a Berlin-based data analyst and trained linguist, working mainly in data analytics with a dash of analytics engineering.
+I build data models with SQL and dbt, including models for our product and engagement teams, and I analyze A/B tests to turn results into practical next steps.
+Before moving into analytics, I worked in natural language processing, which I am still passionate about. I also have been supporting beginners in both data science and data analytics as they develop their skills.
+
 How to reach me:
 - 📧 **mcynsiew@gmail.com**
 - 🔗 <a href="https://www.linkedin.com/in/cynthias13w/">LinkedIn</a>
